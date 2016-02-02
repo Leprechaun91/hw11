@@ -31,9 +31,9 @@ int main(){
 
 	const double lambda = 10;
         const double omega = 0.2;
-        const double alpha = sqrt(omega);
+        const double alpha = sqrt(omega)
 
-        stringstream strm;
+  stringstream strm;
 
 	cmplx* psi0 = new cmplx[Nx];
 
